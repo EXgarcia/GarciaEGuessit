@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\bin\Debug\net6.0\GarciaEGuessit.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\bin\Debug\net6.0\GarciaEGuessit.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\bin\Debug\net6.0\GarciaEGuessit.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\bin\Debug\net6.0\GarciaEGuessit.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\bin\Debug\net6.0\GarciaEGuessit.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\refint\GarciaEGuessit.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\GarciaEGuessit.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGuessit\obj\Debug\net6.0\ref\GarciaEGuessit.dll
