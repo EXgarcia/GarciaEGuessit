@@ -20,9 +20,9 @@ while( input != "QUIT")
 
 int count = 0;
 Console.WriteLine("Please select a difficulty.");
-Console.WriteLine("Type \"EASY: 1-10\" for easy mode.");
-Console.WriteLine("Type \"MEDIUM:1-50\" for medium mode.");
-Console.WriteLine("Type \"HARD:1-100\" for hard mode.");
+Console.WriteLine("Type \"EASY\" for 1-10.");
+Console.WriteLine("Type \"MEDIUM\" for 1-50.");
+Console.WriteLine("Type \"HARD\" for 1-100.");
 string gameMode = Console.ReadLine().ToUpper();
 
 
@@ -49,14 +49,14 @@ Console.WriteLine("Guess a number bewtween 1-10");
  if(userInput == 0)
  {
    Console.WriteLine("Invalid entry.");
-   break;
+   
    
  }
 
- if(userInput < num){
+ else if (userInput < num){
     Console.WriteLine("Too Low");
 
- }
+ 
  if (userInput > num)
  {
     Console.WriteLine("Too High");
@@ -65,6 +65,7 @@ Console.WriteLine("Guess a number bewtween 1-10");
  {
     Console.WriteLine("You Got it!");
     Console.WriteLine("Guess count: " + count);
+ }
  }
 }
 }
@@ -87,12 +88,12 @@ Console.WriteLine("Guess a number bewtween 1-50");
  if(userInput == 0)
  {
    Console.WriteLine("Invalid entry");
-   break;
+   
  }
- if(userInput < num){
+ else if(userInput < num){
     Console.WriteLine("Too Low");
 
- }
+ 
  if (userInput > num)
  {
     Console.WriteLine("Too High");
@@ -101,6 +102,7 @@ Console.WriteLine("Guess a number bewtween 1-50");
  {
     Console.WriteLine("You Got it!");
     Console.WriteLine("Guess count: " + count);
+ }
  }
 }
 }
@@ -124,12 +126,12 @@ Console.WriteLine("Guess a number bewtween 1-100");
  if(userInput == 0)
  {
    Console.WriteLine("Invalid entry");
-   break;
+   
  }
- if(userInput < num){
+ else if(userInput < num){
     Console.WriteLine("Too Low");
 
- }
+ 
  if (userInput > num)
  {
     Console.WriteLine("Too High");
@@ -138,6 +140,7 @@ Console.WriteLine("Guess a number bewtween 1-100");
  {
     Console.WriteLine("You Got it!");
     Console.WriteLine("Guess count: " + count);
+ }
  }
 }
 }
